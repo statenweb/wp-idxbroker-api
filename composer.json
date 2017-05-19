@@ -1,12 +1,13 @@
 {
-	"name": "wp-api-libraries/wp-idxbroker-api",
-    "require-dev": {
-        "stevegrunwell/wp-enforcer": "^0.4.1"
-    },
-    "post-install-cmd": [
+   "name":"wp-api-libraries/wp-idxbroker-api",
+   "type":"wordpress-plugin",
+   "require-dev":{
+      "stevegrunwell/wp-enforcer":"^0.4.1"
+   },
+   "post-install-cmd":[
       "wp-enforcer"
-    ],
-    "post-update-cmd": [
+   ],
+   "post-update-cmd":[
       "wp-enforcer"
-    ]
+   ]
 }
