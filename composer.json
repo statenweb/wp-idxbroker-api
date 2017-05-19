@@ -1,5 +1,6 @@
 {
-    "require": {
+	"name": "wp-api-libraries/wp-idxbroker-api",
+    "require-dev": {
         "stevegrunwell/wp-enforcer": "^0.4.1"
     },
     "post-install-cmd": [
