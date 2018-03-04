@@ -10,7 +10,7 @@
 * Plugin URI: https://github.com/wp-api-libraries/wp-idxbroker-api
 * Description: Perform API requests to IDX Broker in WordPress.
 * Author: WP API Libraries
-* Version: 1.0.1
+* Version: 1.0.2
 * Author URI: https://wp-api-libraries.com
 * GitHub Plugin URI: https://github.com/wp-api-libraries/wp-idxbroker-api
 * GitHub Branch: master
